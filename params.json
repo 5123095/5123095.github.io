@@ -1,6 +1,6 @@
 {
   "name": "5123095.GitHub.io",
   "tagline": "凤求凰",
-  "body": "Order -> SubOrder 拼单\r\nOrder -> siblingOrder 拼单\r\n\r\n***\r\n2016-10-10\r\nLisp (LISt Processing),第二古老的语言，作为递归方程推导的形式诞生在1950s晚期。最大的特征：\r\n1. 非正规设计的产品，而是秉承实用主义原则，根据用户反馈逐步演化而成.\r\n2. 可以将过程（procedures）作为和数据（data）一样操作\r\n\r\n",
+  "body": "Order -> SubOrder 拼单\r\nOrder -> siblingOrder 拼单\r\n\r\n***\r\n2016-10-10\r\n程序 —— 咒语   计算过程 —— 计算机精灵的巫术     程序定义计算过程 —— 咒语召唤精灵使用某种巫术\r\nLisp (LISt Processing),第二古老的语言，作为递归方程推导的形式诞生在1950s晚期。最大的特征：\r\n1. 非正规设计的产品，而是秉承实用主义原则，根据用户反馈逐步演化而成.\r\n2. 可以将过程（procedures）作为和数据（data）一样操作\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
